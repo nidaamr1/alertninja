@@ -5,7 +5,7 @@ AlertNinja
 
 🖥️ Installation
 
-🖇️Clone the URL of this repository "git clone https://github.com/afshanfathima29/AlertNinja.git" and then "cd AlertNinja"
+🖇️Clone the URL of this repository "git clone https://github.com/nidaamr1/AlertNinja.git" and then "cd AlertNinja"
 
 📌Install the required libraries of Python and Nmap along with python-nmap bindings to run the execution smoothly (All the required packages are mentioned in "instructions.docx" File)
 
